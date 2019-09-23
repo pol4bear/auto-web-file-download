@@ -1,2 +1,2 @@
 # WebFileDownloader
-Download files recursively from directory indexed web.
+Download files recursively from directory indexed web
